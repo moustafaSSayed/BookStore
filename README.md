@@ -5,6 +5,7 @@ in this project we used .net entity framework and mvc to sebarate controllers fr
 **For views** we used : 
 - html5 
 - css3
+- JavaScript
 - bootstrap5 
 
 **For controllers** we used :
